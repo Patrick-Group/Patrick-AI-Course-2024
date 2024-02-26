@@ -1,15 +1,14 @@
-# site properties and page defaults
-title: Patrick-Group
+ properties and page defaults
+title: The AI Design Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Our AI lab focus on advanced 3D reconstruction and the development of sophisticated in-house large language models, focusing on precision and innovation.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@Patrick-Group.com
+  email: pchiang@fudan.edu.cn
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
   github: Patrick-Group
   twitter: Patrick-Group
   youtube: Patrick-Group
